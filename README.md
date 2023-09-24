@@ -1,2 +1,3 @@
 # moonwavetest
-# Hello World from the source code repository at https://github.com/moonwave/moonwave/blob/master/ moonwave development repository at https://github.com/moonwave/moonwave/blob/              
+# Hello World from the source code repository at https://github.com/moonwave/moonwave/
+
