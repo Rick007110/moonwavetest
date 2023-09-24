@@ -82,6 +82,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://discord.gg/nmeFvh7jv3',
+            label: 'Discord',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -105,7 +110,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/nmeFvh7jv3',
               },
               {
                 label: 'Twitter',
@@ -127,7 +132,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Rick007110.`,
       },
       prism: {
         theme: lightCodeTheme,
